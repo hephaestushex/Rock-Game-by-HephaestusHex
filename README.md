@@ -1,6 +1,15 @@
 # Rock-Game-by-HephaestusHex
 A text based game of the rock cycle.
 
+THIS IS NOT A VIRUS.
+
+If you still think it is a virus(it is not.), then don't run. Have fun not playing it.
+
+Also, what would I gain???
+
+If you think it isn't (thank you),
+read on
+
 To run the game, click the code button and click download the zip file.
 
 Right click the zip file and click the extract button. 
