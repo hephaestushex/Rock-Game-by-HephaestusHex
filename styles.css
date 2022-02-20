@@ -1,0 +1,28 @@
+body {
+	background-color: #A23001;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	margin: 50px;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: space-around;
+}
+
+.container > div {
+	color: #ecd761;
+}
+
+input[type="text"] {
+	border: 1px solid black;
+	border-radius: 30px;
+	color: #ecd761;
+	background-color: #d87044;
+}
